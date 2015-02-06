@@ -12,3 +12,7 @@ If you're running Mavericks, you may have problems compiling the code if you're 
 ###Running the Arduino Sketch
 
 Just like any other Arduino Sketch, copy the contents of our 'Sketch' folder to wherever you want to run it from on your system. We've created custom versions of the Adafruit MotorShield library that allow us to kill the motors if they hit the edge of our platform. Copy the 'Adafruit_MotorShield_kill' folder into your libraries folder and then upload the sketch. Once the program is run, it will calibrate itself by travelling the length of the track and counting how many steps it takes with the stepper motors to traverse the full length. Elvis will then move to the center of the track and will move relative to his last position.
+
+###Hardware
+
+For Slow Elvis, we built a track using to arcade buttons, an Arudino Uno, a Nema 14 Stepper motor and the Adafruit Motor Shield V2. We don't have a circuit diagram at this time (we assembled the circuit over a year ago) but we will do in the future.
