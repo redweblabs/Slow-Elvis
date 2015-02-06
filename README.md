@@ -15,4 +15,4 @@ Just like any other Arduino Sketch, copy the contents of our 'Sketch' folder to 
 
 ###Hardware
 
-For Slow Elvis, we built a track using to arcade buttons, an Arudino Uno, a Nema 14 Stepper motor and the Adafruit Motor Shield V2. We don't have a circuit diagram at this time (we assembled the circuit over a year ago) but we will do in the future.
+For Slow Elvis, we built a track using two arcade buttons, an Arudino Uno, a Nema 14 Stepper motor and the Adafruit Motor Shield V2. We don't have a circuit diagram at this time (we assembled the circuit over a year ago) but we will do in the future.
